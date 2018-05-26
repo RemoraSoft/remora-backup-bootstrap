@@ -3,7 +3,6 @@
   "description": "Creates the Helper App for the Remora Backup Add-on",
   "repository": "https://github.com/jasoncross/remora-backup-bootstrap",
   "addons": [
-    "remora-backup",
     {
       "plan": "remora-backup:test"
     }
