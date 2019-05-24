@@ -4,7 +4,7 @@
   "repository": "https://github.com/jasoncross/remora-backup-bootstrap",
   "addons": [
     {
-      "plan": "remora-backup:blacktip-reef"
+      "plan": "remora-backup:byo"
     }
   ],
   "buildpacks": [
