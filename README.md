@@ -4,6 +4,6 @@ Remora Backup is a secure, simple, yet powerful offsite backup service for your 
 
 Get started by creating a Helper App for backups using the button below.
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/jasoncross/remora-backup-bootstrap)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/RemoraSoft/remora-backup-bootstrap)
 
 Find out more in the [Heroku Dev Center article](https://devcenter.heroku.com/articles/remora-backup).
