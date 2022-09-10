@@ -7,6 +7,7 @@
       "plan": "remora-backup:mako"
     }
   ],
+  "stack": "heroku-18",
   "buildpacks": [
     {
       "url": "https://github.com/ryandotsmith/null-buildpack"
