@@ -10,7 +10,7 @@
   "formation": {
     "placeholder": {
       "quantity": 0,
-      "size": "basic"
+      "size": "standard-1x"
     }
   },
   "buildpacks": [
