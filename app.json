@@ -9,8 +9,8 @@
   ],
   "formation": {
     "web": {
-      "quantity": 1,
-      "size": "standard-1x"
+      "quantity": 0,
+      "size": "basic"
     }
   },
   "buildpacks": [
