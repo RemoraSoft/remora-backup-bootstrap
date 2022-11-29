@@ -8,7 +8,7 @@
     }
   ],
   "formation": {
-    "placeholder": {
+    "remora_backup": {
       "quantity": 0,
       "size": "standard-1x"
     }
