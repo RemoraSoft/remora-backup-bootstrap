@@ -4,8 +4,8 @@ Remora Backup is a secure, simple, yet powerful offsite backup service for your 
 
 Get started by creating a Helper App for backups using the button below.
 
-Note that this will only work for Heroku Private Spaces.
+*This deploy button will only work with Heroku Private Spaces*
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=[https://github.com/RemoraSoft/remora-backup-bootstrap](https://github.com/RemoraSoft/remora-backup-bootstrap/tree/private-space-dyno)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/RemoraSoft/remora-backup-bootstrap/tree/private-space-dyno)
 
 Find out more in the [Heroku Dev Center article](https://devcenter.heroku.com/articles/remora-backup).
