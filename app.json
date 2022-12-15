@@ -7,12 +7,6 @@
       "plan": "remora-backup:mako"
     }
   ],
-  "formation": {
-    "remora_backup": {
-      "quantity": 0,
-      "size": "private-s"
-    }
-  },
   "buildpacks": [
     {
       "url": "https://github.com/ryandotsmith/null-buildpack"
