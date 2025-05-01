@@ -10,4 +10,6 @@ If you have a database in a Private or Shield Space, use this button instead for
 
 [![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://www.heroku.com/deploy/?template=https://github.com/RemoraSoft/remora-backup-bootstrap/tree/private-space-dyno)
 
+If you are running a database on Fir, you will need to use the [Fir Helper App](https://github.com/RemoraSoft/remora-backup-bootstrap/tree/fir-space-template).
+
 Find out more in the [Heroku Dev Center article](https://devcenter.heroku.com/articles/remora-backup).
