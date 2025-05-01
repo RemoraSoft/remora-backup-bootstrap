@@ -1,0 +1,9 @@
+[[io.buildpacks.group]]
+id = "custom-bootstrap"
+
+[io.buildpacks.group.script]
+api = "0.10"
+inline = "chmod 700 bootstrap.sh"
+
+[[io.buildpacks.group]]
+uri = "urn:cnb:builder:heroku/procfile"
